@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Amantran</string>
+    <string name="cancel">Cancel</string>
+    <string name="next">Next</string>
+    <string name="title_activity_new_invitation">NewInvitationActivity</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="choose_photo">Choose Photo</string>
+    <string name="access_camera">Access Camera</string>
+    <string name="camera_permission_denied">Camera Permission Denied</string>
+    <string name="access_sdcard">Access Images</string>
+    <string name="image_permission_denied">Acess Permission denied</string>
+    <string name="image_not_found">Image not found</string>
+</resources>
